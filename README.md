@@ -96,4 +96,4 @@
 ---
 ### 💭 Quote
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+P-Shell+from+scratch...;Learning+how+computers+really+work.;Code.+Debug.+Repeat.;Always+building,+always+learning.)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+P-Shell+from+scratch...;Learning+how+computers+really+work.;Code.+Debug.+Repeat.;punith+k;Always+building,+always+learning.)](https://git.io/typing-svg)
