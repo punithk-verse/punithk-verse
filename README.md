@@ -89,20 +89,11 @@
 - [ ] Create a personal portfolio website
 - [ ] Secure a Software Engineering internship
 
----
-
-## 📈 GitHub Activity Graph
-
-[![Punit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=punithk-verse&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 👀 Profile Views
 
 ![](https://visitcount.itsvg.in/api?id=punithk-verse&icon=3&color=6)
 
 ---
-
 ### 💭 Quote
 
 > *"Build. Break. Learn. Repeat."*
