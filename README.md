@@ -83,11 +83,9 @@
 # 🎯 Goals
 
 - [ ] Complete P-Shell
-- [ ] Solve 300+ LeetCode problems
 - [ ] Make my first Open Source contribution
 - [ ] Build a Spring Boot project
 - [ ] Create a personal portfolio website
-- [ ] Secure a Software Engineering internship
 
 ### 👀 Profile Views
 
