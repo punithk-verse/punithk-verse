@@ -1,97 +1,98 @@
-# 💫 About Me
+# 👋 Hi, I'm Punith K.
 
-🎓 B.Tech Computer Science & Engineering student at **PES University**<br>
-🐚 Currently building **P-Shell**, a Unix-like shell in C<br>
-☕ Learning **Java**, **Data Structures & Algorithms**, **Operating Systems**, and **Computer Networks**<br>
-💻 Passionate about System Programming, Software Engineering, and building projects from scratch<br>
-🌱 Exploring Open Source and continuously improving my problem-solving skills<br>
-🚀 Goal: Become a Software Engineer through consistent learning and real-world projects<br>
-⚡ *"Build. Break. Learn. Repeat."*
+B.Tech Computer Science & Engineering student at **PES University**, interested in systems programming, software engineering, AI/ML, and open source.
 
 ---
 
-## 🌐 Socials
+## 🛠️ Current Focus
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_pun1th)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/punit-k)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punith34k@gmail.com)
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Libraries
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- 🐚 Building **P-Shell**, a Unix-style shell in C
+- ☕ Strengthening **Java and Data Structures & Algorithms**
+- 🖥️ Learning **Operating Systems and Computer Networks**
+- 🤗 Contributing to **Open Source**
+- 🤖 Exploring practical **AI/ML** projects
 
 ---
 
-# 🚀 Current Focus
+## 🤗 Open Source Contributions
 
-- 🐚 Developing **P-Shell**
-- ☕ Strengthening Java fundamentals
-- 📚 Practicing Data Structures & Algorithms
-- 💡 Learning Operating Systems & Computer Networks
-- 🌍 Preparing for Open Source contributions
+### Repo2RLEnv · Hugging Face
+
+**1 merged pull request**
+
+Contributed a fix to the PR runtime verifier for **Go subtest failure classification**.
+
+- Updated parent-failure detection so subtests are grouped only under parents that actually record a failure
+- Added and updated regression tests for the edge case
+- Verified the changes with **22 passing tests**
+- Ruff checks passed
+
+[View Contribution →](https://github.com/huggingface/Repo2RLEnv)
 
 ---
 
-# 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🐚 P-Shell
 
-> A Unix-like command-line shell built in C featuring built-in commands, with upcoming support for pipes, redirection, background processes, and command history.
+A small Unix-style shell written in **C**, built to understand process creation, program execution, pipes, file descriptors, and I/O redirection.
+
+**Implemented:**  
+`fork()` · `execvp()` · built-ins · pipes · `dup2()` · `>` · `>>` · process tracing
+
+[View Repository →](https://github.com/punithk-verse/p-shell)
 
 ### 🎬 Movie Recommendation System
 
-> A content-based movie recommendation system built using Python.
+A **content-based movie recommendation system** implemented in Python, exploring recommendation logic and data processing.
 
-### ❤️ Heart Disease Prediction
+[View Repository →](https://github.com/punithk-verse/Movie_recommendation_system)
 
-> A Machine Learning project for predicting heart disease using healthcare datasets.
+### 🎮 Under-the-Surface-Runner
 
-### 🎮 Endless Runner Game
+A **2D endless runner game** built with Godot, focused on game logic, player interaction, and gameplay mechanics.
 
-> A 2D endless runner game built using Godot Engine.
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=punithk-verse&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=punithk-verse&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=punithk-verse&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[View Repository →](https://github.com/punithk-verse/Under-the-Surface-Runner-)
 
 ---
 
-# 🎯 Goals
+## 💻 Tech Stack
 
-- [ ] Complete P-Shell
-- [ ] Make my first Open Source contribution
-- [ ] Build a Spring Boot project
-- [ ] Create a personal portfolio website
+### Languages
 
-### 👀 Profile Views
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![](https://visitcount.itsvg.in/api?id=punithk-verse&icon=3&color=6)
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-### 💭 Quote
 
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+P-Shell+from+scratch...;Learning+how+computers+really+work.;Code.+Debug.+Repeat.;punith+k;Always+building,+always+learning.)](https://git.io/typing-svg)
+## 🎯 What I'm Working Toward
+
+- Build stronger **software engineering fundamentals**
+- Develop deeper knowledge of **systems and backend development**
+- Make more **meaningful open-source contributions**
+- Build practical projects across **software engineering and AI/ML**
+
+---
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/punithk-verse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punit-k)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punith34k@gmail.com)
+
+---
+
+> Building systems, learning by doing, and contributing where I can.
