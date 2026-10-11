@@ -96,3 +96,8 @@ A **2D endless runner game** built with Godot, focused on game logic, player int
 ---
 
 > Building systems, learning by doing, and contributing where I can.
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b"  alt="Tiny car animation" />
+</p>
